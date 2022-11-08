@@ -1,0 +1,15 @@
+/home/alberto/Documents/projecteuler/euler025/bin/Debug/net6.0/euler025
+/home/alberto/Documents/projecteuler/euler025/bin/Debug/net6.0/euler025.deps.json
+/home/alberto/Documents/projecteuler/euler025/bin/Debug/net6.0/euler025.runtimeconfig.json
+/home/alberto/Documents/projecteuler/euler025/bin/Debug/net6.0/euler025.dll
+/home/alberto/Documents/projecteuler/euler025/bin/Debug/net6.0/ref/euler025.dll
+/home/alberto/Documents/projecteuler/euler025/bin/Debug/net6.0/euler025.pdb
+/home/alberto/Documents/projecteuler/euler025/obj/Debug/net6.0/euler025.csproj.AssemblyReference.cache
+/home/alberto/Documents/projecteuler/euler025/obj/Debug/net6.0/euler025.GeneratedMSBuildEditorConfig.editorconfig
+/home/alberto/Documents/projecteuler/euler025/obj/Debug/net6.0/euler025.AssemblyInfoInputs.cache
+/home/alberto/Documents/projecteuler/euler025/obj/Debug/net6.0/euler025.AssemblyInfo.cs
+/home/alberto/Documents/projecteuler/euler025/obj/Debug/net6.0/euler025.csproj.CoreCompileInputs.cache
+/home/alberto/Documents/projecteuler/euler025/obj/Debug/net6.0/euler025.dll
+/home/alberto/Documents/projecteuler/euler025/obj/Debug/net6.0/ref/euler025.dll
+/home/alberto/Documents/projecteuler/euler025/obj/Debug/net6.0/euler025.pdb
+/home/alberto/Documents/projecteuler/euler025/obj/Debug/net6.0/euler025.genruntimeconfig.cache
